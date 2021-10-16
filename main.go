@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/philcantcode/asiem-core-cc/discovery"
+	"github.com/philcantcode/asiem-core-utils/discovery"
 	"github.com/philcantcode/asiem-core-utils/logutils"
 )
 
